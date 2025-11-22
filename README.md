@@ -1,8 +1,9 @@
-# Hi there, I'm Xin Liu (刘鑫) 👋
-<div align="center">
-  <img src="images/xin.png" alt="Profile Picture" width="200" style="border-radius: 50%;"/>
-</div>
-
+<h1 align="center">
+  Hi, I'm <a href="https://XinLiu98.github.io/" target="_blank">Xin Liu (刘鑫) 👋</a> <br>
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/XinLiu98">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/XinLiu98">
+	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
+<br>
 ## About Me
 
 - 🔭 I'm currently working as an **Assistant Researcher** at **Tsinghua University**
